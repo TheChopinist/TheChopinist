@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TheChopinist, a self-taught no-stack developer.
+- 👀 I’m interested in Frontend and Backend Development, mathematical aspects and simulations.
+- 🌱 I’m currently delving into Node.js and expanding my knowledge in various related areas.
+- 💞️ I’m Single
+- 📫 How to reach me: You don't.
+- 😄 Pronouns: Asian
+- ⚡ Fun fact: I love classical music
