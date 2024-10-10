@@ -20,7 +20,3 @@ Welcome to my GitHub profile! I'm a self-taught no-stack developer, constantly e
 ## 🌍 My GitHub Stats
 
 ![TheChopinist's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheChopinist&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheChopinist&layout=compact&theme=radical)
-
----
