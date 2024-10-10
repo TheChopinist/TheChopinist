@@ -20,3 +20,6 @@ Welcome to my GitHub profile! I'm a self-taught no-stack developer, constantly e
 ## 🌍 My GitHub Stats
 
 ![TheChopinist's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheChopinist&show_icons=true&theme=radical)
+
+## 🧑‍💻 Commits? What Commits?
+I mostly code in private repositories, but that doesn’t mean I’m not working! Quality over quantity, right? 😄
